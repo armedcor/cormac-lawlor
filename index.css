@@ -188,7 +188,7 @@ header table {
 #photos img {
     width:100%;
     height:auto;
-    margin:4.5% 156px;
+    margin:4.5% 16rem;
     transition:0.4s ease-in-out;
 }
 #photos img:hover {
@@ -391,6 +391,6 @@ button:focus {
 }
 
 .project-button {
-    margin-left: 15vw;
+    margin-left: 22vw;
     margin-top: 0;
 }
