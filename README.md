@@ -1,6 +1,6 @@
 # Cormac Lawlor
 
-###Portfolio website
+### Portfolio website
 
 This Website was built to showcase some of the projects I built both during my time on the Code Institute course and after.
 

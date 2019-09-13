@@ -23,7 +23,7 @@ body {
     animation: rotate 0.56s infinite linear;
     width:50px;
     height:50px;
-    border:12px solid rgb(255, 44, 90);
+    border:12px solid rgb(22, 215, 107);
     border-bottom:12px solid #fff;
     border-radius:50%;
     margin:0;
@@ -70,7 +70,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 #magnify h1:hover{
-    color:rgb(255, 44, 90);
+    color: rgb(26, 255, 117);
     cursor:pointer;
 }
 #img_here {
@@ -81,8 +81,8 @@ header table {
     margin:0px auto;
 }
 #logo {
-    font-size:24px;
-    color:rgb(255, 44, 90);
+    font-size:1.5rem;
+    color: rgb(5, 114, 68);
 }
 #navigation {
     text-align:right;
@@ -127,7 +127,7 @@ header table {
     text-align:left;
 }
 .social {
-    color:rgb(255, 44, 90);
+    color: rgb(5, 114, 68);
     font-size:23px;
     padding:12px 17px;
     border-radius:50%;
@@ -139,15 +139,15 @@ header table {
 .social:hover { 
     cursor: pointer;
     color:#fff;
-    background:rgb(255, 44, 90);
-    box-shadow:0px 10px 30px rgba(255, 66, 107,0.8);
+    background: rgb(26, 255, 117);
+    box-shadow:0px 10px 30px rgba(22, 215, 107, 0.8);
 }
 .btn_one {
     font-size:18px;
     font-family: 'Poppins', sans-serif;
-    color:rgb(255, 44, 90);
+    color: rgb(5, 114, 68);
     background:#fff;
-    border:3px solid rgb(255, 44, 90);
+    border:3px solid rgb(22, 215, 107);
     padding:8px 40px;
     width:35%;
     border-radius:80px;
@@ -156,15 +156,15 @@ header table {
     transition:0.4s ease-in-out;
 }
 .btn_one:hover {
-    box-shadow:0px 10px 30px rgba(255, 44, 90, 0.8);
+    box-shadow:0px 10px 30px rgba(26, 255, 117, 0.8);
     cursor:pointer;
     color:#fff;
-    background:rgb(255, 44, 90);
+    background: rgb(26, 255, 117);
 }
 #rightImage {
     width:100%;
     height:95vh;
-    background:linear-gradient(0deg,rgba(255, 44, 90, 0.8),rgba(2255, 44, 90, 0.8)),url("https://images.unsplash.com/photo-1506057527569-6a0285b2fcc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=60") center center;
+    background:linear-gradient(0deg, rgba(26, 255, 117, 0.3), rgba(5, 215, 15, 0.4)),url("https://images.unsplash.com/photo-1520583457224-aee11bad5112?ixlib=rb-1.2.1&auto=format&fit=crop&w=2002&q=80") center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
@@ -175,7 +175,7 @@ header table {
 }
 #work h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid rgb(26, 255, 117);
     width:6%;
 }
 #photos {
@@ -202,7 +202,7 @@ header table {
 }
 #bio h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid rgb(26, 255, 117);
     width:8%;
 }
 #contact {
@@ -211,7 +211,7 @@ header table {
 }
 #contact h1 {
     padding:5px 0px;
-    border-bottom:4px solid rgb(255, 44, 90);
+    border-bottom:4px solid rgb(22, 215, 107);
     width:10%;
 }
 #contact table {
@@ -237,7 +237,7 @@ header table {
     margin:20px 1%;
     background:transparent;
     border:0px;
-    border-bottom:3px solid rgba(255, 44, 90,0.5);
+    border-bottom:3px solid rgba(5, 114, 68, 0.5);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
     font-size:18px;
@@ -250,7 +250,7 @@ header table {
     margin:20px 1%;
     padding:8px 10px;
     border:0px;
-    border-bottom:3px solid rgba(255, 44, 90,0.5);
+    border-bottom:3px solid rgba(5, 114, 68, 0.5);
     padding:8px 10px;
     font-family: 'Poppins', sans-serif;
     font-size:18px;
@@ -262,11 +262,11 @@ header table {
 }
 #contact form input:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 44, 90,1);
+    border-bottom:3px solid rgb(22, 215, 107);
 }
 #contact form textarea:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 44, 90,1);
+    border-bottom:3px solid rgb(22, 215, 107);
 }
 #address {
     position:relative;
@@ -280,7 +280,7 @@ header table {
     font-weight:bold;
 }
 #footer a {
-    color:rgb(255, 44, 90);
+    color: rgb(5, 114, 68);
     text-decoration:none;
 }
 ::placeholder {
@@ -343,12 +343,12 @@ button:focus {
     padding:6px 30px;
     width:60%;
     margin:4vh auto;
-    box-shadow:0px 10px 20px rgba(255, 44, 90, 0.8);
-    background:rgb(255, 44, 90);
+    box-shadow:0px 10px 20px rgba(5, 114, 68, 0.8);
+    background: rgb(26, 255, 117);
     color:#fff;
     }
     .btn_one:hover {
-        box-shadow:0px 10px 40px rgba(255, 44, 90, 0.8);
+        box-shadow:0px 10px 40px rgba(22, 215, 107, 0.8);
         cursor:pointer;
     }
     #contact table tr td {
@@ -391,5 +391,6 @@ button:focus {
 }
 
 .project-button {
-    margin-left: 8em;
+    margin-left: 18vw;
+    margin-top: 0;
 }
